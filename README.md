@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Iftakher Alam</h1>
-<h3 align="center">A passionate about Technolgy boy from Bangladesh</h3>
+<h3 align="center">Boy who is passionate about Technolgy from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakheralam&label=Profile%20views&color=0e75b6&style=flat" alt="iftakheralam" /> </p>
