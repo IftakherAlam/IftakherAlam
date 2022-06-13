@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Iftakher Alam aka Mr. Wolf</h1>
+<h1 align="center">Hi 👋, I'm Md. Iftakher Alam(Mr. Wolf)</h1>
 <h3 align="center">Passionate about Technolgy</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif">
 
