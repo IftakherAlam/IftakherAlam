@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Competitive programming**
 
-- 💬 Ask me about **Don't Ask.**
+- 💬 Ask me about **Anything.**
 
 - 📫 How to reach me **iftakheralam.ewu@gmail.com**
 
